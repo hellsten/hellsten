@@ -3,6 +3,7 @@
 I build software and spend a lot of time outside with my two Great Pyrenees.
 
 When I’m not coding I’m usually:
+
 🐕 exploring trails with my dogs
 🥋 training judo, Brazilian jiu-jitsu, or karate
 🏋️ lifting weights

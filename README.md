@@ -42,9 +42,9 @@ This project is being built with **Claude AI**.
 
 ## Tech I Work With
 
-**Frontend:** HTML • CSS • SCSS • JavaScript • TypeScript • React
-**Backend:** Node.js • Express
-**Data:** SQL • APIs
+**Frontend:** HTML • CSS • SCSS • JavaScript • TypeScript • React  
+**Backend:** Node.js • Express  
+**Data:** SQL • APIs  
 **Tools:** Git • Postman • VS Code
 
 ---

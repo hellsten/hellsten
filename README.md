@@ -4,10 +4,10 @@ I build software and spend a lot of time outside with my two Great Pyrenees.
 
 When I’m not coding I’m usually:
 
-🐕 exploring trails with my dogs
-🥋 training judo, Brazilian jiu-jitsu, or karate
-🏋️ lifting weights
-🏓 playing pickleball
+🐕 exploring trails with my dogs  
+🥋 training judo, Brazilian jiu-jitsu, or karate  
+🏋️ lifting weights  
+🏓 playing pickleball  
 
 I like building technology that is intentional, useful, and simple.
 No unnecessary complexity. Just tools that work well and look good.
